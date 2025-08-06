@@ -1,0 +1,18 @@
+Notes for the NotesNest application 
+
+class 1 
+    step 1 npx create-next-app@ latest NotesNest
+    step 2 npx shadcn@latest init
+    step 3 npm run dev
+    step 4 npx shadcn@latest add button -> it is in components folder 
+    step 5 In react (tsx or nextjs ) a component can only return a single value 
+
+class 2 
+    Step 1 Learned about the Trunk that help in the space and formating the code
+    Step 2 press cmd+shift+b   then write format document with 
+    Step 3 Learned about the (sfc) for react code snippet extensions
+    Step 4 (auth) -> Organizational Folder 
+    Step 5 _componetnts -> Used to create a reusable route inside the app folder 
+    Step 6 App folder is the main one where you have to work 
+    Step 7 page.tsx is the child of the layout.tsx
+    layout.tsx return the page.tsx as a child 
