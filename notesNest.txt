@@ -16,3 +16,7 @@ class 2
     Step 6 App folder is the main one where you have to work 
     Step 7 page.tsx is the child of the layout.tsx
     layout.tsx return the page.tsx as a child 
+
+Class 3
+    Step 1: Learning how to create a landing page 
+    
